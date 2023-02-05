@@ -1,6 +1,8 @@
 <h1 align="center">Hello There! Thanks for visiting my place.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanusumanth&label=Profile%20views&color=0e75b6&style=flat" alt="bhanusumanth" /> </p>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=bhanusumanth&label=Profile%20views&color=0e75b6&style=flat" alt="bhanusumanth" /> </p>
+<div align="center">
+    <img src="https://github.com/bhanusumanth/bhanusumanth/blob/master/retro_laser_wave.gif" alt="Laser grid Moving Brackground"/><br/>
+</div>
 <h3>About me :</h3> 
 <pre>
 I am uniquely trained and highly motivated - a specialist without equal and immune to any countermeasures. 
