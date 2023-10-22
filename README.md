@@ -9,8 +9,8 @@ I have most likely anticipated this very moment and is waiting to strike in what
 </pre>
 <h4>Just Kidding! Look below</h4>
 
-  - 🎓 I’m currently Pursuing Masters in Computer Science at Cal State Long Beach
-  - 💻 Software Developer with 2+ years of experience
+  - 🎓 Support Engineer @ LiveReach AI , Masters in CS
+  - 💻 Software Developer with 3 years of experience
   - ⚡ Interested in Serverless Application Model, Cloud and Full Stack Development. 
   - 😁 Video Games, Sci-Fi Content, Tech, Anime and Much More! 
 <h3 align="left">Connect with me:</h3>
