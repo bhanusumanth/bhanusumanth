@@ -9,9 +9,9 @@ I have most likely anticipated this very moment and is waiting to strike in what
 </pre>
 <h4>Just Kidding! Look below</h4>
 
-  - 🎓 Support Engineer @ LiveReach AI , Masters in CS
+  - 🎓 Support Engineer @ LiveReach AI , Master degree in CS
   - 💻 Software Developer with 3 years of experience
-  - ⚡ Interested in Serverless Application Model, Cloud and Full Stack Development. 
+  - ⚡ Interested in Rust, Distributed Systems, Full Stack Web. 
   - 😁 Video Games, Sci-Fi Content, Tech, Anime and Much More! 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
