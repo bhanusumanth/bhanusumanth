@@ -9,9 +9,9 @@ I have most likely anticipated this very moment and is waiting to strike in what
 </pre>
 <h4>Just Kidding! Look below</h4>
 
-  - 🎓 Support Engineer @ LiveReach AI , Master degree in CS
-  - 💻 Software Developer with 3 years of experience
-  - ⚡ Interested in Rust, Distributed Systems, Full Stack Web. 
+  - 🎓 Software Engineer @ ServiceNow , Master degree in CS
+  - 💻 Software Developer with 4 years of experience
+  - ⚡ Interested in LLMs, Distributed Systems, Web 3.0 
   - 😁 Video Games, Sci-Fi Content, Tech, Anime and Much More! 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
