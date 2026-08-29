@@ -15,7 +15,7 @@ I have most likely anticipated this very moment and is waiting to strike in what
   - 😁 Video Games, Sci-Fi Content, Tech, Anime and Much More! 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/uEbKhqNKUZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uEbKhqNKUZ" height="30" width="40" /></a>
+<a href="https://discord.gg/uEbKhqNKUZ" target="blank">Discord<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uEbKhqNKUZ" height="30" width="40" /></a>
 </p>
 <hr/>
 <h3 align="left">Toolbox</h3>
